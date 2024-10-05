@@ -1,0 +1,15 @@
+base: 'https://typo313.ddev.site/'
+dependencies:
+  - typo3/form
+  - t3docs/site-package
+languages:
+  -
+    title: English
+    enabled: true
+    languageId: 0
+    base: /
+    locale: en_US.UTF-8
+    navigationTitle: English
+    flag: us
+rootPageId: 1
+websiteTitle: 'Example site'

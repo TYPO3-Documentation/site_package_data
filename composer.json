@@ -1,0 +1,15 @@
+{
+	"name": "t3docs/site-package-data",
+	"type": "typo3-cms-extension",
+	"description": "Example data for t3docs/site-package",
+	"require": {
+		"t3docs/site-package": "^13.0|dev-main"
+	},
+	"homepage": "https://github.com/TYPO3-Documentation/site_package_data",
+	"license": "MIT",
+	"extra": {
+		"typo3/cms": {
+			"extension-key": "site_package_data"
+		}
+	}
+}
