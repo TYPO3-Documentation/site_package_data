@@ -1,7 +1,6 @@
 base: '/'
 dependencies:
   - typo3/form
-  - t3docs/site-package
 languages:
   -
     title: English
